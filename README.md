@@ -1,6 +1,7 @@
 Tổng chi phí di chuyển của mặt bằng ban đầu:
 Tổng chi phí di chuyển: 6511117.04459999
 
+![image alt]([image_url](https://github.com/cbungvu963/Facility-Planning/blob/master/K%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BA%B7t%20b%E1%BA%B1ng%20c%E1%BB%A7a%20ph%C6%B0%C6%A1ng%20%C3%A1n%201%20%C4%91%E1%BB%81%20xu%E1%BA%A5t%20sau%20khi%20ch%E1%BA%A1y%20gi%E1%BA%A3i%20thu%E1%BA%ADt.png?raw=true))
 
 Kết quả mặt bằng của phương án 1 đề xuất sau khi chạy giải thuật
 Tổng diện tích cần thiết: 175.8771 m²
