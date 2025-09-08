@@ -1,5 +1,6 @@
 Kết quả mặt bằng ban đầu:
 ![image alt](https://github.com/cbungvu963/Facility-Planning/blob/da06b4b50f4f306c7a12a19eef906601fe2c1036/Previous_Layout.png)
+
 Tổng chi phí di chuyển: 6511117.04459999
 
 
